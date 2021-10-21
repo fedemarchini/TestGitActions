@@ -2,7 +2,7 @@ name: Pulumi
 on:
   push:
     branches:
-      - Main
+      - main
 jobs:
   preview:
     name: Update
